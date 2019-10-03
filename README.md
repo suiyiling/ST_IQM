@@ -4,6 +4,8 @@ Implementation of "Image quality assessment for free viewpoint video based on mi
 Dependecy:
 Please download the Sketch Token pakage and install it. 
 https://github.com/gitlim/SketchTokens
+(Only for acadamic usage)
+
 
 Running:
 
@@ -38,6 +40,9 @@ st_iqm_score  = ST_IQM( ori ,  syn, model,'JSD',0.4 )
 
 Citation:
 Please cite the following paper if you end up using the code:
+
 [1] Joseph J. Lim, C. Lawrence Zitnick, and Piotr Dollar. "Sketch Tokens: A Learned Mid-level Representation for Contour and and Object Detection," CVPR2013.
+
+
 [2] Ling, Suiyi, and Patrick Le Callet. "Image quality assessment for free viewpoint video based on mid-level contours feature." 2017 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2017.
 

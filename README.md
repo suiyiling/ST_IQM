@@ -33,7 +33,7 @@ beta : parameter used for minkowski summation.
 st_iqm_score: the predicted quality score
 
 Example:
-st_iqm_score  = ST_IQM(imresize(ori,0.05), imresize(syn,0.05),model,'Cosine',0.4 )
+st_iqm_score  = ST_IQM( ori ,  syn, model,'JSD',0.4 )
 
 Citation:
 Please cite the following paper if you end up using the code:

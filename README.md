@@ -2,6 +2,7 @@
 Implementation of "Image quality assessment for free viewpoint video based on mid-level contours feature."
 
 Dependecy:
+Please download the Sketch Token pakage and install it. 
 https://github.com/gitlim/SketchTokens
 
 Running:
